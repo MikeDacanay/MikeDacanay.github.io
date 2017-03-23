@@ -1,0 +1,22 @@
+.inactiveLink {
+   pointer-events: none;
+   cursor: default;
+}
+/* Footer */
+.footer {
+	position: relative;
+	background-color: $white;
+	height: 100px;
+	color: $black;
+	font-size: 16px;
+	text-align: center;
+}
+
+.footer a {
+	position: absolute;
+	top: 16px;
+	padding-left: 2%;
+	padding-right: 2%;
+	margin: 0 auto;
+	margin-top: -25px;
+}
