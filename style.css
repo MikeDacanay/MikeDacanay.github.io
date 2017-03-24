@@ -18,3 +18,23 @@ body {
     width: 95%;
     margin: 0 auto;
 }
+#navbar-1 {
+    border-right: 3px solid #dcedea;
+}
+#handsome {
+    width:232px; /* you can use % */
+    height: auto;
+    float:right;
+    margin: 4em;
+}
+.about-content{
+    width: 70%;
+    margin: 0 auto;
+}
+#about-jumbo{
+    position:relative;
+}
+.centereighty{
+    width: 80%;
+    margin: 0 auto;
+}
