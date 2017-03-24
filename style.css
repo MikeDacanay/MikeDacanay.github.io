@@ -27,14 +27,13 @@ body {
     float:right;
     margin: 4em;
 }
-.about-content{
-    width: 70%;
-    margin: 0 auto;
-}
 #about-jumbo{
     position:relative;
 }
 .centereighty{
     width: 80%;
     margin: 0 auto;
+}
+.about-content{
+    text-align:justify;
 }
