@@ -30,6 +30,10 @@ body {
     float:right;
     margin: 0 0 10px 52px;
 }
+.handsomework{
+    width: 376px;
+    height: 214px;
+}
 #about-jumbo{
     position:relative;
     width: 100%;
@@ -44,12 +48,33 @@ body {
 .about-content{
     text-align:justify;
 }
+.workdescleft{
+    padding-left:132px;
+}
+.workimgseal{
+   text-align:center;
+/*    padding-right:0px;*/
+    padding-top:28px;
+}
+.workimgconrad{
+    text-align:center;
+/*    padding-right:0px;*/
+    padding-top:28px;;
+}
+#conradhead{
+    text-align:right;
+}
+.workdescright{
+    padding-right:132px;
+}
+.imgcolumn {
+    padding-top:0px;
+    padding-bottom:0px;
+}
 hr {
     border: 1px solid black;
 }
+p.clear {
+    clear: both;
+}
 
-/*
-body{
-     background-image: url(pencil-147130_960_720.png);
-     background-attachment: fixed;
-}*/
